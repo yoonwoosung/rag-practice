@@ -56,7 +56,7 @@ for doc in docs:
         sentence=doc.page_content
     ))
     print("=" * 80)
-📷 템플릿 적용 결과
+
 
  3. LLM API 호출 결과
 PromptTemplate을 통해 구성한 문장을 실제 GPT 모델에 전달하고 응답을 받았습니다.
